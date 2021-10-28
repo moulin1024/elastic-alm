@@ -4,3 +4,5 @@ src/output/
 *.mod
 *.png
 job/
+post/
+src/main
