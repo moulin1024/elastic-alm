@@ -1,0 +1,6 @@
+src/input/
+src/output/
+*.o
+*.mod
+*.png
+job/
